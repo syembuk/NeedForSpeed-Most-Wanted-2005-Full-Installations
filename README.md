@@ -64,7 +64,7 @@ NFSMW_2005_X360_Stuff_v3.2_Beta
 | Source | Link |
 |--------|------|
 | 🎮 NFSMods Page | [View on NFSMods](https://nfsmods.xyz/mod/1200) |
-| 📦 Direct Download | [⬇️ Download v3.2 Beta](https://cdn.discordapp.com/attachments/1283810488211214419/1301063102975971338/3badef-NFSMW_2005_X360_Stuff_v3.2_Beta_-_Download_links.zip) |
+| 📦 Direct Download | [⬇️ Download v3.2 Beta](https://nfsmods.xyz/uploads/mods/1200/76cccf-X360%20Stuff%20(v4.1)%20-%20Download%20links.zip) |
 
 ---
 
