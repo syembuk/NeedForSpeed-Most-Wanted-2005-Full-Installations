@@ -144,12 +144,13 @@ NFSMW_2005_X360_Stuff_v3.2_Beta
 
 ---
 
-## ✨ Sample Images
+## ✨ Different Mods Sample Images
 
 > ⭐ **Star This Repo For My Efforts!** 🌟
 
 <div align="center">
 
+![Image](https://media.discordapp.net/attachments/1297869850705793045/1481154983037636710/0fOXWNz.png?ex=69b24892&is=69b0f712&hm=23fcfa4b519c6702c563c449fec7c75f3f6d04432650c0d4bd8ddb9c8ae8b689&animated=true&width=2066&height=1162)
 ![3rdImage](https://cdn.discordapp.com/attachments/1283810488211214419/1340547029285474375/speed_2025-02-06_14-42-39.png?ex=69b04cf5&is=69aefb75&hm=045f5a7615515aefeed1497a4052f6ce0a04480ce967edb22cb446f33e7d6c38&animated=true)
 ![4thImage](https://media.discordapp.net/attachments/1283810488211214419/1340556322223034448/speed_2025-02-16_10-16-31.png?ex=69b0559d&is=69af041d&hm=3e1626f64dcde180cf99075f2fd4734a8e522a4e04f5a75ad67995b5b8981a24&animated=true)
 ![5thImage](https://media.discordapp.net/attachments/1283810488211214419/1340556464435236957/speed_2025-02-14_10-46-32.png?ex=69b055bf&is=69af043f&hm=df45e597aa2496270ea78a31a8dfacb6fed583d5352f97ecba4701e5f3093332&animated=true)
