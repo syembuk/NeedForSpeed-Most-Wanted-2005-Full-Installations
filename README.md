@@ -9,6 +9,7 @@
 ![Game](https://img.shields.io/badge/Game-NFS%20Most%20Wanted%202005-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 ![Mods](https://img.shields.io/badge/Mods-14%2B-purple?style=for-the-badge)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ds83N8xNvf)
 
 </div>
 
